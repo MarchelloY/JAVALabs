@@ -1,5 +1,10 @@
 package com.marchello.labs.Lab10;
 
+/*
+8. Определить множество на основе множества целых чисел. Создать методы
+для определения пересечения и объединения множеств.
+*/
+
 public class Main {
     public static void main(String[] args) {
         MySet set1 = new MySet(1, 2, 3);
